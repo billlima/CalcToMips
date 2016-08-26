@@ -2,8 +2,6 @@
 
 This software uses RPN (Reverse Polish Notation) to convert simple numerical calculations to a Mips Code.
 
-&nbsp;
-
 **Formatos aceitos:**
 * sum(+)
 * sub(-)
