@@ -2,6 +2,8 @@
 
 This software uses RPN (Reverse Polish Notation) to convert simple numerical calculations to a Mips Code.
 
+&nbsp;
+
 **Formatos aceitos:**
 * sum(+)
 * sub(-)
@@ -17,6 +19,8 @@ This software uses RPN (Reverse Polish Notation) to convert simple numerical cal
 (25 * (13 + 2)) - fat(5)
 922 - fat(6) * (3 - 1) + fib(12) + 75 / sqrt(25)
 ```
+&nbsp;
+&nbsp;
 
 ## Requirements
 * Java7+
@@ -24,6 +28,8 @@ This software uses RPN (Reverse Polish Notation) to convert simple numerical cal
 
 PS.: Lib commons-math3-3.6.1.jar is already in the project
 
+&nbsp;
+&nbsp;
 
 ## Preview
 
